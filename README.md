@@ -18,6 +18,8 @@ Gosto dos desafios que a tecnologia me proporciona para realizar algumas coisas 
   <code><img height="35" src="icons/java.png"></code>
   <code><img height="35" src="icons/spring-framework-logo-spring-boot.png"></code>
   <code><img height="35" src="icons/git.png"></code>
+  <code><img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAngular_full_color_logo.svg&psig=AOvVaw01ZQOW-EoX1b-5w3X9Y9zM&ust=1680614518841000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCD4Yznjf4CFQAAAAAdAAAAABAE"></code>
+  
 </div>
 <div style="margin-top:100px" align="center">
    <img alt="GIF" style="height: 500px" src="gifs/hello-world.gif" />
