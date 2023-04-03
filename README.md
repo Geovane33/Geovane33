@@ -17,9 +17,9 @@ Gosto dos desafios que a tecnologia me proporciona para realizar algumas coisas 
 <div align="center" style="display: inline_block"><br>
   <code><img height="35" src="icons/java.png"></code>
   <code><img height="35" src="icons/spring-framework-logo-spring-boot.png"></code>
-  <code><img height="35" src="icons/git.png"></code>
   <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
-  
+  <code><img height="35" src="https://www.mixmax.com/hubfs/Engineering/Advent%202022/javascript-to-typescript.png"></code>
+  <code><img height="35" src="icons/git.png"></code>
 </div>
 <div style="margin-top:100px" align="center">
    <img alt="GIF" style="height: 500px" src="gifs/hello-world.gif" />
