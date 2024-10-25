@@ -9,7 +9,7 @@ Gosto dos desafios que a tecnologia me proporciona para realizar algumas coisas 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovane33&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="margin-left:50px;"> 
-  <a href="[www.linkedin.com/in/geovanesouza33](https://www.linkedin.com/in/geovanesouza33/)" target="_blank"><img style="height: 20px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/geovanesouza33/" target="_blank"><img style="height: 20px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 <div style="display: inline_block"><br>
 
