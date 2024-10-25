@@ -3,7 +3,7 @@ Sou formado em análise e desenvolvimento de sistemas.
 Gosto dos desafios que a tecnologia me proporciona para realizar algumas coisas que vão alem das minhas competências, gosto também das trocas de conhecimentos pois é muito importante para nosso desenvolvimento.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/geovanesouza33/"><img alt="Geovane profile picture" style=" border-radius: 100%; height:130px" src="https://avatars.githubusercontent.com/u/53842708?v=4"></a>
+<a href="https://www.linkedin.com/in/geovanesouza33/"><img alt="Geovane profile picture" style=" border-radius: 100%; height:130px" src="picture/profile.png"></a>
   <a href="https://github.com/geovane33">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovane33&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovane33&layout=compact&langs_count=7&theme=algolia"/>
